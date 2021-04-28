@@ -1,0 +1,10 @@
+*.o
+*/out/*
+debs/*
+*.deb
+*.dylib
+*.sublime-workspace
+_/*
+obj/*
+bin/*
+.DS_Store
