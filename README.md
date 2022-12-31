@@ -1,3 +1,3 @@
 # DragonBuild/src
 
-This folder contains tools we need to build from source (device/* and simject) and tools we get from elsewhere (dm.pl and logos)
+This directory contains tools dragon needs to build from source (i.e., device/* and simject) and tools sourced from elsewhere (i.e., dm.pl and logos)
