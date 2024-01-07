@@ -4,3 +4,9 @@
 [submodule "logos"]
 	path = logos
 	url = https://github.com/theos/logos
+[submodule "appinfo"]
+	path = device/appinfo
+	url = https://github.com/DragonBuild/appinfo
+[submodule "decryptor"]
+	path = device/decryptor
+	url = https://github.com/DragonBuild/decryptor
