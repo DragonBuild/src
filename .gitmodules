@@ -10,3 +10,6 @@
 [submodule "decryptor"]
 	path = device/decryptor
 	url = https://github.com/DragonBuild/decryptor
+[submodule "injection"]
+	path = device/injection
+	url = https://github.com/dragonbuild/injection
